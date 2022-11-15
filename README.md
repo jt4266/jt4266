@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jt4266
-- 👀 I’m interested in Data
+- 👀 I’m interested in tech
 - 🌱 I’m currently learning Cybersecurity
-- 💞️ I’m looking to collaborate on data/cybersecurity projects
+- 💞️ I’m looking to collaborate on cybersecurity projects
 - 📫 How to reach me - jt4266@nyu.edu
 
 <!---
